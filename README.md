@@ -83,17 +83,6 @@ My objective is not simply to write code, but to build software that is efficien
 
 ---
 
-# GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thecodexbit-svg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodexbit-svg&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
 
 # Contribution Streak
 

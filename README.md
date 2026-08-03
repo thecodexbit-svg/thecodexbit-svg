@@ -6,11 +6,26 @@
 
 Building software with a focus on engineering principles, continuous learning, and long-term craftsmanship.
 
+<p>
+<a href="https://github.com/thecodexbit-svg">
+<img src="https://img.shields.io/badge/GitHub-thecodexbit--svg-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anuruddha-pratap">
+<img src="https://img.shields.io/badge/LinkedIn-Anuruddha%20Pratap-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/vlfnpu2LCB/">
+<img src="https://img.shields.io/badge/LeetCode-the__codex-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
 </div>
 
 ---
 
-## About Me
+# About Me
 
 I am an aspiring Software Engineer pursuing a Bachelor's degree in Computer Science & Engineering (Artificial Intelligence).
 
@@ -20,7 +35,7 @@ I view software engineering as a discipline of continuous improvement. Every pro
 
 ---
 
-## Why I Chose Technology
+# Why I Chose Technology
 
 Technology is one of the few fields where curiosity can be transformed into tangible impact.
 
@@ -30,7 +45,7 @@ My objective is not simply to write code, but to build software that is efficien
 
 ---
 
-## Current Focus
+# Current Focus
 
 - Data Structures & Algorithms
 - Machine Learning
@@ -40,15 +55,17 @@ My objective is not simply to write code, but to build software that is efficien
 
 ---
 
-## Technologies
+# Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,html,css,git,github,mysql,vscode,numpy" />
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,html,css,git,github,mysql,vscode"/>
+
 </p>
 
-Currently Learning
+### Currently Learning
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
@@ -56,7 +73,7 @@ Currently Learning
 
 ---
 
-## Featured Repositories
+# Featured Repositories
 
 | Repository | Description |
 |------------|-------------|
@@ -66,26 +83,67 @@ Currently Learning
 
 ---
 
-## GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thecodexbit-svg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodexbit-svg&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thecodexbit-svg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodexbit-svg&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
-## Contribution Streak
+---
+
+# Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thecodexbit-svg&theme=github-dark&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=thecodexbit-svg&theme=github-dark&hide_border=true"/>
+
 </p>
 
-## Contribution Activity
+---
+
+# Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thecodexbit-svg&theme=github-dark&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thecodexbit-svg&theme=github-dark&hide_border=true"/>
+
 </p>
 
-## Engineering Principles
+---
+
+# LeetCode
+
+<p align="center">
+
+<a href="https://leetcode.com/u/vlfnpu2LCB/">
+<img src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" width="90"/>
+</a>
+
+</p>
+
+<p align="center">
+
+**LeetCode Username:** **vlfnpu2LCB**
+
+**Display Name:** **the_codex**
+
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/vlfnpu2LCB/">
+<img src="https://img.shields.io/badge/View%20Profile-LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+# Engineering Principles
 
 - Write clean and maintainable code.
 - Prefer understanding over memorization.
@@ -95,7 +153,7 @@ Currently Learning
 
 ---
 
-## Current Goals
+# Current Goals
 
 - Build production-quality full-stack applications.
 - Strengthen algorithmic problem-solving skills.
@@ -105,19 +163,20 @@ Currently Learning
 
 ---
 
-## Connect
+# Connect
 
-- GitHub: https://github.com/thecodexbit-svg
-- Email: thecodexbit@gmail.com.com
-- LinkedIn: *(www.linkedin.com/in/
-anuruddha-pratap
-Vanity URL name
-)*
+- **GitHub**  
+  https://github.com/thecodexbit-svg
+
+- **LeetCode**  
+  https://leetcode.com/u/vlfnpu2LCB/
+
+- **LinkedIn**  
+  https://www.linkedin.com/in/anuruddha-pratap
+
+- **Email**  
+  thecodexbit@gmail.com
 
 ---
 
----
-
-> *"Software engineering is not about writing more code; it's about building better systems through continuous learning and disciplined execution."*
-
----
+> *"Software engineering is not about writing more code; it is about building better systems through continuous learning and disciplined execution."*
